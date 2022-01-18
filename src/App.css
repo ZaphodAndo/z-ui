@@ -3,3 +3,13 @@
   margin: auto;
   max-width: 800px;
 }
+
+.profile-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-section input {
+  margin-top: 20px;
+}
